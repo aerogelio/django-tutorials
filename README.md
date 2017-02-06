@@ -1,5 +1,6 @@
 # django-tutorials
-Aplicación de ejemplo de los tutoriales de django
+Aplicación de ejemplo de los tutoriales de django.
+
 
 
 Django 1.10.5
